@@ -1,0 +1,14 @@
+{
+  "name": "baileys-multi-session",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.16",
+    "axios": "^1.7.2",
+    "express": "^4.21.0",
+    "qrcode": "^1.5.4"
+  }
+}
